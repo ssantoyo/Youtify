@@ -25,10 +25,15 @@
 
 **Required Must-have Stories**
 
-* [ ] User sees an app icon on the home screen and a styled launch screen
-* [ ] User  is able to log in and out.
-* [ ] 
-* [ ] 
+* [ ] User can see app has multiple views
+* [ ] User can log in/log out of your app as a user
+* [ ] User can sign up with a new user profile
+* [ ] Your app incorporates an external library to add visual polish
+* [ ] Your app use an animation (doesn’t have to be fancy) (e.g. fade in/out, e.g. animating a view growing and shrinking)
+* [ ] Your app uses gesture recognizers (e.g. double tap to like, e.g. pinch to scale) 
+* [ ] Your app contains at least one more complex algorithm 
+* [ ] Your app interact with a database (e.g. Parse) 
+* [ ] Your app integrates with a SDK (e.g. Google Maps SDK, Facebook SDK)
 
 **Optional Nice-to-have Stories**
 
