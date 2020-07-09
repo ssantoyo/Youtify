@@ -8,12 +8,12 @@
 
 ## Overview
 ### Description
-[Description of your app]
+Youtify is a Youtube to Spotify playlist converter that automates the process of manually selectig songs and creating a playlist. 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
+- **Category:** Music/Entertainment
+- **Mobile:** The app be primarly developed for mobile but would also be practicable on a computer. More features can be made on the mobile device.
 - **Story:**
 - **Market:**
 - **Habit:**
