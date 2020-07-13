@@ -23,7 +23,7 @@ Youtify is a Youtube to Spotify playlist converter that automates the process of
 
 ### 1. User Stories (Required and Optional)
 
-**Required Must-have Stories**
+**Required FBU Must-have Stories**
 
 * [ ] User can see app has multiple views
 * [ ] User can log in/log out of your app as a user
@@ -35,6 +35,14 @@ Youtify is a Youtube to Spotify playlist converter that automates the process of
 * [ ] Your app interact with a database (e.g. Parse) 
 * [ ] Your app integrates with a SDK (e.g. Google Maps SDK, Facebook SDK)
 
+**Required Must-have Stories**
+* [x] User sees app icon in home screen and styled launch screen
+* [ ] User can sign up to creat a new account using Parse authentication
+* [ ] User can log in and log out of his or her account
+* [ ] The current signed in user is persisted across app restarts
+* [ ] User can view all their Youtube playlist
+* [ ] User can pull to refresh the playlist on Youtube
+
 **Optional Nice-to-have Stories**
 
 * [fill in your required user stories here]
@@ -42,33 +50,36 @@ Youtify is a Youtube to Spotify playlist converter that automates the process of
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login - Parse
+   * User can login
+   * User can sign up
+* Login - Spotify and Youtube
+   * User can Login
+* TimeLine
+   * User can see youtube playlist
+   * User can see profile image
+* Detail View
+   * User can see all songs within selected playlist
+   * User can being the transfer of playlist from Youtube to Spotify 
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Login/Sign up
+* Music selection
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Login/ Sign up
+   * One time login and log out w/ persisted log in
+* Music Selection
+   * Selection of playlist and toggle song selection
+ 
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
