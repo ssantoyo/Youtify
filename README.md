@@ -12,10 +12,15 @@ Youtify is a Youtube to Spotify playlist converter that automates the process of
 
 ### App Evaluation
 - **Category:** Music/Entertainment
+
 - **Mobile:** The app be primarly developed for mobile but would also be practicable on a computer. More features can be made on the mobile device.
+
 - **Story:** User can transfer music from Youtube to Spotify wherever they are. 
+
 - **Market:** Anyone who loves music and sees benefit in creating purely music playlist on spotify
+
 - **Habit:** This app could be used as often or unoften as the user wanted depending on how many playlist they wsh to transfer, and what exactly they're looking turn into a Spotify playlist.
+
 - **Scope:** First we would start with having people use the app for song transfer only, but can evolve in the future into transfering music from Spotify to Youtube. Potentially, adding music videos and song suggestions based off your transfers.
 
 ## Product Spec
@@ -78,7 +83,7 @@ Youtify is a Youtube to Spotify playlist converter that automates the process of
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="" width=600>
+<img src="https://i.imgur.com/Youtify-5.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
