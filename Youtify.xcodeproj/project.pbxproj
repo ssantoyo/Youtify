@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		61E2F677432F5265F8677768 /* Pods_YoutifyTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3409AC4A723509A2F4DF259 /* Pods_YoutifyTests.framework */; };
+		7985EB08A7BF75A5E7B9E1FC /* Pods_Youtify.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D24D25CAE2E1EA71AEEA18E /* Pods_Youtify.framework */; };
 		8D78FE9924BBE8860058595C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D78FE9824BBE8860058595C /* AppDelegate.m */; };
 		8D78FE9C24BBE8860058595C /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D78FE9B24BBE8860058595C /* SceneDelegate.m */; };
 		8D78FE9F24BBE8860058595C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D78FE9E24BBE8860058595C /* ViewController.m */; };
@@ -16,6 +18,7 @@
 		8D78FEAA24BBE8870058595C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D78FEA924BBE8870058595C /* main.m */; };
 		8D78FEB424BBE8870058595C /* YoutifyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D78FEB324BBE8870058595C /* YoutifyTests.m */; };
 		8D78FEBF24BBE8870058595C /* YoutifyUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D78FEBE24BBE8870058595C /* YoutifyUITests.m */; };
+		C0504A743DD741866DB9B36D /* Pods_Youtify_YoutifyUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18B8C76B54417428CF5CB05D /* Pods_Youtify_YoutifyUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		087EF0D01456D7B239E86E1E /* Pods-Youtify-YoutifyUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Youtify-YoutifyUITests.debug.xcconfig"; path = "Target Support Files/Pods-Youtify-YoutifyUITests/Pods-Youtify-YoutifyUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		18B8C76B54417428CF5CB05D /* Pods_Youtify_YoutifyUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Youtify_YoutifyUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		21ADB3A8C24083B4236368F2 /* Pods-YoutifyTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YoutifyTests.release.xcconfig"; path = "Target Support Files/Pods-YoutifyTests/Pods-YoutifyTests.release.xcconfig"; sourceTree = "<group>"; };
+		2A3A728B01F63B2CB81B9F6D /* Pods-Youtify-YoutifyUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Youtify-YoutifyUITests.release.xcconfig"; path = "Target Support Files/Pods-Youtify-YoutifyUITests/Pods-Youtify-YoutifyUITests.release.xcconfig"; sourceTree = "<group>"; };
+		36987759B63F0740A800D601 /* Pods-Youtify.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Youtify.release.xcconfig"; path = "Target Support Files/Pods-Youtify/Pods-Youtify.release.xcconfig"; sourceTree = "<group>"; };
 		8D78FE9424BBE8860058595C /* Youtify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Youtify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D78FE9724BBE8860058595C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8D78FE9824BBE8860058595C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -54,6 +62,10 @@
 		8D78FEBA24BBE8870058595C /* YoutifyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YoutifyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D78FEBE24BBE8870058595C /* YoutifyUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YoutifyUITests.m; sourceTree = "<group>"; };
 		8D78FEC024BBE8870058595C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D24D25CAE2E1EA71AEEA18E /* Pods_Youtify.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Youtify.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B54596E178CE282282731DC2 /* Pods-Youtify.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Youtify.debug.xcconfig"; path = "Target Support Files/Pods-Youtify/Pods-Youtify.debug.xcconfig"; sourceTree = "<group>"; };
+		E90F987B3B4B072E6357272F /* Pods-YoutifyTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YoutifyTests.debug.xcconfig"; path = "Target Support Files/Pods-YoutifyTests/Pods-YoutifyTests.debug.xcconfig"; sourceTree = "<group>"; };
+		F3409AC4A723509A2F4DF259 /* Pods_YoutifyTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YoutifyTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +73,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7985EB08A7BF75A5E7B9E1FC /* Pods_Youtify.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,6 +81,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61E2F677432F5265F8677768 /* Pods_YoutifyTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,12 +89,27 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0504A743DD741866DB9B36D /* Pods_Youtify_YoutifyUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		343ED3FFD1B6E0E617B1F3B9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B54596E178CE282282731DC2 /* Pods-Youtify.debug.xcconfig */,
+				36987759B63F0740A800D601 /* Pods-Youtify.release.xcconfig */,
+				087EF0D01456D7B239E86E1E /* Pods-Youtify-YoutifyUITests.debug.xcconfig */,
+				2A3A728B01F63B2CB81B9F6D /* Pods-Youtify-YoutifyUITests.release.xcconfig */,
+				E90F987B3B4B072E6357272F /* Pods-YoutifyTests.debug.xcconfig */,
+				21ADB3A8C24083B4236368F2 /* Pods-YoutifyTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		8D78FE8B24BBE8860058595C = {
 			isa = PBXGroup;
 			children = (
@@ -88,6 +117,8 @@
 				8D78FEB224BBE8870058595C /* YoutifyTests */,
 				8D78FEBD24BBE8870058595C /* YoutifyUITests */,
 				8D78FE9524BBE8860058595C /* Products */,
+				343ED3FFD1B6E0E617B1F3B9 /* Pods */,
+				97DBAD83A0598F6F4FC5E195 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -137,6 +168,16 @@
 			path = YoutifyUITests;
 			sourceTree = "<group>";
 		};
+		97DBAD83A0598F6F4FC5E195 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9D24D25CAE2E1EA71AEEA18E /* Pods_Youtify.framework */,
+				18B8C76B54417428CF5CB05D /* Pods_Youtify_YoutifyUITests.framework */,
+				F3409AC4A723509A2F4DF259 /* Pods_YoutifyTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -144,9 +185,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8D78FEC324BBE8870058595C /* Build configuration list for PBXNativeTarget "Youtify" */;
 			buildPhases = (
+				65E9971C0A6FCFB603DC332C /* [CP] Check Pods Manifest.lock */,
 				8D78FE9024BBE8860058595C /* Sources */,
 				8D78FE9124BBE8860058595C /* Frameworks */,
 				8D78FE9224BBE8860058595C /* Resources */,
+				0A77B69065FB5DB19BFF1003 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -161,6 +204,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8D78FEC624BBE8870058595C /* Build configuration list for PBXNativeTarget "YoutifyTests" */;
 			buildPhases = (
+				1D90EF937E0AADAA36138EBE /* [CP] Check Pods Manifest.lock */,
 				8D78FEAB24BBE8870058595C /* Sources */,
 				8D78FEAC24BBE8870058595C /* Frameworks */,
 				8D78FEAD24BBE8870058595C /* Resources */,
@@ -179,9 +223,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8D78FEC924BBE8870058595C /* Build configuration list for PBXNativeTarget "YoutifyUITests" */;
 			buildPhases = (
+				6AEE33477AAB29839520132A /* [CP] Check Pods Manifest.lock */,
 				8D78FEB624BBE8870058595C /* Sources */,
 				8D78FEB724BBE8870058595C /* Frameworks */,
 				8D78FEB824BBE8870058595C /* Resources */,
+				9600F6BD7DB5AEEC3FE0F377 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -261,6 +307,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0A77B69065FB5DB19BFF1003 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Youtify/Pods-Youtify-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Youtify/Pods-Youtify-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Youtify/Pods-Youtify-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1D90EF937E0AADAA36138EBE /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-YoutifyTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		65E9971C0A6FCFB603DC332C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Youtify-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6AEE33477AAB29839520132A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Youtify-YoutifyUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9600F6BD7DB5AEEC3FE0F377 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Youtify-YoutifyUITests/Pods-Youtify-YoutifyUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Youtify-YoutifyUITests/Pods-Youtify-YoutifyUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Youtify-YoutifyUITests/Pods-Youtify-YoutifyUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		8D78FE9024BBE8860058595C /* Sources */ = {
@@ -437,6 +586,7 @@
 		};
 		8D78FEC424BBE8870058595C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B54596E178CE282282731DC2 /* Pods-Youtify.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -454,6 +604,7 @@
 		};
 		8D78FEC524BBE8870058595C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 36987759B63F0740A800D601 /* Pods-Youtify.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -471,6 +622,7 @@
 		};
 		8D78FEC724BBE8870058595C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E90F987B3B4B072E6357272F /* Pods-YoutifyTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -491,6 +643,7 @@
 		};
 		8D78FEC824BBE8870058595C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 21ADB3A8C24083B4236368F2 /* Pods-YoutifyTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -511,6 +664,7 @@
 		};
 		8D78FECA24BBE8870058595C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 087EF0D01456D7B239E86E1E /* Pods-Youtify-YoutifyUITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R462SWBSJD;
@@ -529,6 +683,7 @@
 		};
 		8D78FECB24BBE8870058595C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2A3A728B01F63B2CB81B9F6D /* Pods-Youtify-YoutifyUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R462SWBSJD;
