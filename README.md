@@ -82,8 +82,15 @@ Youtify is a Youtube to Spotify playlist converter that automates the process of
  
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
+**Version 1:**
 <img src="http://g.recordit.co/pMqTAzm1ym.gif" width=600>
+
+**Version 2:**
+<img src="http://g.recordit.co/60FP6p2DLp.gif" width=600>
+
+
+
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
